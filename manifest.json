@@ -1,0 +1,25 @@
+{
+  "name": "Meu Mercadinho",
+  "short_name": "Meu Mercadinho",
+  "description": "Aplicativo de Mercados autonomos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#32256D",
+  "theme_color": "#32256D",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "gcm_sender_id": "103953800507"
+}
