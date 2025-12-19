@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "src": "/firebase-messaging-sw.js", "dest": "/firebase-messaging-sw.js" },
+    { "src": "/manifest.json", "dest": "/manifest.json" },
+    { "src": "/icon-192x192.png", "dest": "/icon-192x192.png" },
+    { "src": "/icon-512x512.png", "dest": "/icon-512x512.png" },
+    { "src": "/(.*)", "dest": "marketfun.base44.app" }
+  ]
+}
